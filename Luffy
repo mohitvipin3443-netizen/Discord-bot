@@ -250,6 +250,7 @@ async def ben(ctx, user: discord.Member, *, message=None):
         ctx.message.author.mention +
         'https://media.tenor.com/816V-5-jMbMAAAAS/jujutsu-kaisen-jujutsu-kaisen0.gif'
       )
+python bot.py
 
 keep_alive()
 bot.run["DISCORD_BOT_TOKEN"]
