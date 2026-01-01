@@ -252,4 +252,4 @@ async def ben(ctx, user: discord.Member, *, message=None):
 
 
 keep_alive()
-bot.run["DISCORD_TOKEN"]
+bot.run["MTQ1NTM5MDI5MDUxNjExOTc4MA.GiEAUq.Yb6CFZDROlZ69IKWk4Avseb5sGSfoIW4HvDBNQ"]
